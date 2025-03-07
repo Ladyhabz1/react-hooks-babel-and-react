@@ -19,7 +19,7 @@ This is the Tower of Babel. If you don't have time to procrastinate and
 allow us to provide the [TL;DR][tldr] and why it is relevant to the Babel tool
 we use:
 
-The Tower of Babel was a colossal construction project long ago. It was being
+The Tower of Babel was a colossal construction project long ago. It was
 built by a united humanity speaking the same language, with the intention of
 reaching such heights that heaven itself could be accessed. While it was being
 constructed, the God in the story afflicted the united humans by confounding
